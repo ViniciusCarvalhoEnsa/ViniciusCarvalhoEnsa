@@ -43,6 +43,6 @@ vinicius.proficiencies = [
 ![](https://github-profile-trophy.vercel.app/?username=ViniciusCarvalhoEnsa&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://komarev.com)](https://github.com)
+[![](https://komarev.com)]([https://github.com](https://github.com/ViniciusCarvalhoEnsa/ViniciusCarvalhoEnsa/=0&color=FF00FF))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
