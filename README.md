@@ -12,7 +12,7 @@ I'm currently persuing a degree in Software Engineering at Inatel.<br>I'm workin
 ![](https://streak-stats.demolab.com/?user=ViniciusCarvalhoEnsa&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ViniciusCarvalhoEnsa&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ViniciusCarvalhoEnsa&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
