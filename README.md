@@ -42,7 +42,8 @@ vinicius.proficiencies = [
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ViniciusCarvalhoEnsa&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
+## For those of you who were interested and read this far:
+[![Gift](https://img.shields.io/badge/-Gift_-FF69B4?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ---
 [![](https://komarev.com/ghpvc/?username=ViniciusCarvalhoEnsa&icon=0&color=FF00FF)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
