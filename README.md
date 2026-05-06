@@ -45,8 +45,8 @@ vinicius.proficiencies = [
 ---
 
 #### For those of you who were interested and read this far:
-[![Gift](https://img.shields.io/badge/-Gift_-2596be?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Gift](https://img.shields.io/badge/-Gift_-f86c93?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ViniciusCarvalhoEnsa&icon=0&color=2596be)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ViniciusCarvalhoEnsa&icon=0&color=f86c93)](https://visitcount.itsvg.in)
 
