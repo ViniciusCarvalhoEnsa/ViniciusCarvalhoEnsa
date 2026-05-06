@@ -4,7 +4,7 @@ I'm currently persuing a degree in Software Engineering at Inatel.<br>I'm workin
 
 Addicted in coffee and RPG lover!!!
 ``` Python
-import vinicius from Humanity
+from Humanity import vinicius
 
 vinicius.lvl = "22"
 vinicius.raca = "Human"
