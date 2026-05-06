@@ -22,6 +22,7 @@ vinicius.proficiencies = [
     "☕ Coffee",
     "💻 Programming",
     "🎲 RPG",
+    "👾 Games",
     "⛩️ Anime",
     "🎬 Fantasy & Sci-Fi"
 ]
