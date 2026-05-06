@@ -2,6 +2,32 @@
 I'm currently persuing a degree in Software Engineering at Inatel.<br>I'm working with software development in Python and visual computing.<br>I'm also enhancing my knowledge in Software Architecture and currently learning Docker.
 
 
+RPG lover and addictioned in coffee!!!
+``` Python
+import vinicius from Humanity
+
+vinicius.lvl = "22"
+vinicius.raca = "Human"
+vinicius.classe = "Mage"
+
+def status():
+    vinicius.stats = {
+        "STR": 12, "INT": 17,
+        "DEX": 10, "WIS": 19,
+        "CON": 12, "CHA": 18  
+    }
+    return vinicius.stats
+
+vinicius.proficiencies = [
+    "☕ Coffee",
+    "💻 Programming",
+    "🎲 RPG",
+    "⛩️ Anime",
+    "🎬 Fantasy & Sci-Fi"
+]
+```
+
+---
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinni_en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ViniciusCarvalhoEnsa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viniciuscensa@gmail.com) 
 
