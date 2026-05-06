@@ -2,7 +2,7 @@
 I'm currently persuing a degree in Software Engineering at Inatel.<br>I'm working with software development in Python and visual computing.<br>I'm also enhancing my knowledge in Software Architecture and currently learning Docker.
 
 
-RPG lover and addictioned in coffee!!!
+Addictioned in coffee and RPG lover!!!
 ``` Python
 import vinicius from Humanity
 
