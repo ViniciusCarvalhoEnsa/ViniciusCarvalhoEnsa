@@ -8,7 +8,7 @@ from Humanity import vinicius
 
 vinicius.lvl = "22"
 vinicius.raca = "Human"
-vinicius.classe = "Engineer"
+vinicius.classe = "Software Engineer"
 
 def status():
     vinicius.stats = {
