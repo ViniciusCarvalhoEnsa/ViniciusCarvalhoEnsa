@@ -1,5 +1,6 @@
-# About Me:
-I'm currently persuing a degree in Software Engineering at Inatel.<br>I'm working with software development in Python and visual computing.<br>I'm also enhancing my knowledge in Software Architecture and currently learning Docker.
+# Hey, I'm Vinícius! 
+
+I'm 22 years old and currently studying Software Engineering at [Inatel](https://inatel.br/home/) in Brazil.<br>Currently working with software development in Python and computer vision.<br>I'm also enhancing my knowledge in Software Architecture and currently learning Docker.
 
 
 Addicted in coffee and RPG lover!!!
