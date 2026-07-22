@@ -7,7 +7,7 @@ Addicted in coffee and RPG lover!!!
 ``` Python
 from Humanity import vinicius
 
-vinicius.lvl = "22"
+vinicius.lvl = "23"
 vinicius.raca = "Human"
 vinicius.classe = "Software Engineer"
 
